@@ -1,6 +1,20 @@
+html {
+    
+    background-image: url('./Fondo-pagina.jpg');
+    background-size: 100%;
+    
+}
+
+body {
+    display: flex;
+    align-items: center;
+}
+
 <style>
+
 h1 {
     color: green;
+    
 }
 img {
     width: 400px;
@@ -13,9 +27,12 @@ img {
     border-color: darkgoldenrod;
     border-width: 10px;
     border-style: double;
+    margin: 0% auto;
 }
 #spanId {
     font-size: 18px;
     margin: 50px;
+    display: block;
 }
+
 </style>
