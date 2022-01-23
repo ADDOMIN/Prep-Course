@@ -65,13 +65,13 @@ archivo en cualquiera de estas carpetas, estás en el lugar equivocado.
 
     #elementoUno {
         position: absolute;
-        top: 0;
-        left: 0;
+        top: 0px;
+        left: 0px;
     }
 
     #elementoTres {
         position:absolute;
         bottom: 50%;
-        right: 0;
+        right: 0px;
 
     }
