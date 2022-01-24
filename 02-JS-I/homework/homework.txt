@@ -1,0 +1,25 @@
+"CONCEPTOS"
+
+ * Variables :
+    Las variables son espacios que se reservan en la memoria de la pc, como si fueran varios cajones, cada variable un cajon diferente.
+    Estan vacíos y en cada uno podemos guardar números, letras, o ambos.
+
+ * Strings :
+    Es el nombre del conjunto de letras, números, o la combinación de letras y números, encerrados entre comillas "" que se guarda en
+    las variables.
+
+ * Funciones (argumentos, `return`)
+    a) Funciones son pequeños conjuntos de acciones que se programan y se les da un nombre, para luego invocarlas por ese
+    nombre cada vez que necesitamos que se realicen las mismas acciones, evitando asi repetir la escritura.
+
+    b) Argumentos son elementos que indican que es lo que se debe cumplir para luego realizar las acciones.
+
+    c) Return es una orden con la que se le pide a la computadora que muestre la respuesta del resultado.
+
+ * Declaraciones `if`
+    Se traduce como "Si", en sentido de pregunta. Se utiliza para preguntarle a la computadora, para luego indicarle que hacer segun
+    la respuesta que devuelva.
+
+ * Valores booleanos (`true`, `false`)
+    Son solo dos, Verdadero y Falso, y se puede decir a la computadora que los utilice para responder a las preguntas con "If"
+    
