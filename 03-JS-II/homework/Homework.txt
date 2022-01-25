@@ -1,0 +1,17 @@
+"CONCEPTOS-03"
+
+* `for`:
+    Su traducción es PARA. Se lo utiliza para realizar tareas repetitivas y escribirlas una sola vez. Debe cumplir
+    la siguiente consigna: Para un valor determinado, realizar una accion e incrementar el valor, tantas veces hasta
+    un límite. Habiendo llegado a ese límite dejar de realizar esta acción.
+    
+* `&&`, `||`, `!`
+    a) && Se traduce como Y, se utiliza para decirle a la pc que muestre un resultado siempre y cuando cumpla con dos
+        o mas argumentos.
+    
+    b) || Se traduce como O, se utiliza para decirle a la pc que muestre un resultado siempre y cuando cumpla con uno
+        de los argumentos indicados.
+
+    c) ! Se traduce como NO, se utiliza para decirle a la pc que muestre un resultado siempre y cuando NO cumpla con 
+        el argumento indicado.
+        
