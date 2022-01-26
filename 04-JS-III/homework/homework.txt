@@ -1,0 +1,12 @@
+"CONCEPTOS - 04"
+
+
+	* Arrays:
+        Se lo puede considerar como un contenedor o caja, donde se guardan varios elementos, por lo tanto es
+        una caja con separaciones ordenadas numericamente. Cada dato que se guarde tomará el siguiente lugar vacio y
+        correlativo. Esto permite buscar un dato específico si se quiere, utilizando su posición que comienzan desde
+        0 (cero) y en orden creciente.
+        Este array puede contener otros array en sus posiciones, como una caja que dentro de una de sus divisiones
+        guardaría otra caja con mas divisiones. Y como tal, tambien se puede individualizar la búsqueda, indicando
+        de la caja grande, en que ubicacion se encuentra la caja mas chica y luego en que ubicacion de la caja chica
+        se encuentra el dato que buscamos.
