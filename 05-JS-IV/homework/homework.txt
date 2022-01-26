@@ -1,0 +1,25 @@
+"CONCEPTOS 05"
+
+	* Objetos
+         Los Objetos pueden contener información sobre un mismo elemento. Por ejemplo Todos los datos
+         de una persona (nombre, apellido, edad, dirección, etc.) Dado que estos mismas características
+         se las puede invocar individualmente.
+
+	* Propiedades
+        Las propiedades son esas caracteristicas sobre un mismo elemento, que se mencionan en el punto anterior.
+        Por ejemplo, nombre, apellido, edad, etc. Estos nombres que se le definen a espacios de memoria que 
+        contendrán información, son las PROPIEDADES que se invocarán al momento de precisar su contenido.
+
+	* Métodos
+        Método es el nombre que se le dá a las ya conocidas FUNCIONES, pero utilizadas dentro de los OBJETOS.
+
+	* Bucle `for…in`
+        for...in es una alternativa de bucle para buscar información segun su posición de guardado en los
+        OBJETOS, dado que los OBJETOS no tienen posición numérica como referencia. Entonces para poder hacer
+        una búsqueda se coloca in para indicarle a la pc en que propiedad está ubicado el dato requerido,
+        pudiendo invocar el contenido pero tambien el nombre de la propiedad.
+
+	* Notación de puntos vs notación de corchetes
+        La NOTACION DE PUNTOS sin corchetes se puede utilizar cuando se invoca una propiedad de idéntico nombre.
+        La NOTACION DE CORCHETES se puede utilizar de misma manera que la notación de puntos, y tambien cuando la
+        propiedad invocada es variable
