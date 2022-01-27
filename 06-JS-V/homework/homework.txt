@@ -1,0 +1,12 @@
+* _Constructors_ (de Clases)
+    Se lo puede entender como constructor de clases, con el que se pueden armar estructuras modelo que servirán
+    de plantilla para automatizar el armado de objetos.
+    Se puede asemejar con una fabrica con sus modelos, solo hay que elegir color y algun otro detalle, y los elementos
+    se haran todos iguales, cambiando solo lo indicado. Como si se tratara de una copia de estructura.
+
+
+* `prototype`
+    Tiene sus propiedades establecidas que pueden asistir al Constructor de Clases al momento de construir
+    un objeto, con las propiedades que no existan en la plantilla. Lo que se puede entender como herencia de
+    elementos, ya que el Constructor de clase irá a buscar al prototipo para poder utilizarlos.
+    
