@@ -1,0 +1,4 @@
+"CONCEPTOS 07"
+
+* Funciones Callback
+    Callback se la llama a la función que a su vez es elemento dentro de otra función.
